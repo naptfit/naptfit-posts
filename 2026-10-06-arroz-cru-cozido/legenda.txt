@@ -7,5 +7,3 @@ A principal diferença está na água: no arroz cru, ela representa 13,2 g a cad
 Na prática: antes de usar um valor de tabela, rótulo ou aplicativo, confira se ele se refere ao alimento cru ou cozido, e pese do mesmo jeito. Misturar as duas referências pode distorcer bastante o registro das suas refeições.
 
 Fonte: TACO – Tabela Brasileira de Composição de Alimentos, 4ª ed. (NEPA/UNICAMP, 2011).
-
-#nutrição #educaçãoalimentar #tabelataco #organizaçãoalimentar

@@ -31,6 +31,9 @@ e `historico.md`.
      precisam mencionar o app.
    - Marque no `historico.md`, na coluna "Produto?", se o post foi centrado no app.
 
+8. **Sem hashtags.** Nenhuma legenda leva hashtag (#), em nenhuma quantidade. Esta regra
+   substitui a seção 20 do briefing.
+
 ## 2. Identidade visual
 
 - Formato: carrossel ou post único em **1080 × 1350 px** (4:5). Carrossel de 4 a 7 slides.
@@ -56,7 +59,7 @@ e `historico.md`.
    instituições oficiais. Se não confirmar, não use. Nunca use sites agregadores
    como fonte de números.
 3. **Escrever** a arte e a legenda. Legenda com fonte no final ("Fonte: TACO / NEPA-UNICAMP")
-   e 3 a 5 hashtags específicas.
+   **Sem hashtags** (regra 8).
 4. **Revisar** com o checklist da seção 21 do briefing + a regra 2 deste guia (sem perguntas).
    Releia o português como revisor profissional.
 5. **Gerar as imagens:** crie a pasta `AAAA-MM-DD-tema-curto/` com `slides.html`
