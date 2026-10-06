@@ -39,4 +39,7 @@ Legenda: 🆓 = gratuito · ⭐ = recurso pago/premium · (sem marca) = não inf
 - 6 níveis: Iniciante → Organizado → Disciplinado → Mestre das Marmitas → Chef Saudável → Atleta Consistente
 
 ## Comunidade
-- (descrição ainda não enviada — NÃO citar até ser detalhada aqui)
+(Itens informados pelo responsável; ele disse que são "algumas" das coisas da Comunidade. Cite apenas estes.)
+- 🆓 Mural de fotos com filtro por objetivo, curtir, denunciar e excluir a própria foto
+- 🆓 Receitas da comunidade: publicar, curtir e salvar
+- Desafios: 6 ativos (Água, Refeições Completas, Rotina Premium, Foco Total 21 Dias, Hidratação Premium e Sono Constante), validados pelo que foi marcado na Evolução

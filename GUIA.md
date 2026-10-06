@@ -22,8 +22,14 @@ e `historico.md`.
 6. **Funcionalidades do app:** somente as de `funcionalidades.md`, com os detalhes
    exatamente como estão lá. Nunca diga que um recurso ⭐ é gratuito. Não cite
    "Comunidade" enquanto não houver descrição.
-7. **Proporção:** a maioria dos posts é conteúdo útil; no máximo 1 post por semana
-   centrado no produto. Nos demais, o NaptFit entra só quando fizer sentido.
+7. **Proporção — o perfil NÃO é vitrine de funcionalidades.** O responsável pediu
+   explicitamente que não haja posts seguidos falando do app. Regras:
+   - No máximo **1 post por semana** centrado no produto (apresentar um recurso do NaptFit).
+   - **Nunca** dois posts de produto seguidos; entre eles, pelo menos 4 posts de conteúdo útil.
+   - Nos posts de conteúdo, o NaptFit aparece no máximo como menção breve e natural na
+     legenda (uma frase), e só quando realmente se conecta ao tema. Muitos posts não
+     precisam mencionar o app.
+   - Marque no `historico.md`, na coluna "Produto?", se o post foi centrado no app.
 
 ## 2. Identidade visual
 
