@@ -36,7 +36,7 @@ e `historico.md`.
   slogan "Viva sua melhor versão".
 - Número do slide (1/5) no canto superior direito; fonte de dados no rodapé quando houver números.
 - Primeiro e último slides em fundo escuro; miolo em fundo creme. Pode variar, mantendo a paleta.
-- Referência pronta: `2026-10-07-arroz-cru-cozido/slides.html`. Copie o `<style>` e adapte o layout.
+- Referência pronta: `2026-10-06-arroz-cru-cozido/slides.html`. Copie o `<style>` e adapte o layout.
 - Pouco texto por slide, uma ideia por slide, letras grandes (legível no celular).
 
 ## 3. Passo a passo de cada post
