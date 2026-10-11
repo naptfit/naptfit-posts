@@ -1,0 +1,14 @@
+Corredor do mercado, celular sem sinal e a lista de compras presa na internet. A lista de compras do NaptFit foi pensada para esse momento.
+
+Ela funciona sem internet: fica guardada no aparelho, você marca os itens enquanto compra, e as marcações sincronizam depois.
+
+O que dá para fazer com ela:
+
+1. Incluir os seus próprios itens em “Meus itens extra” (gratuito).
+2. Marcar o que já foi para o carrinho (gratuito).
+3. Compartilhar a lista, pelo WhatsApp, por exemplo (gratuito).
+4. Gerar a lista automaticamente a partir do cardápio ativo, para 1, 7 ou 14 dias (recurso premium). Se você trocar de cardápio, a lista é regenerada sozinha.
+
+Quando o cardápio e a lista de compras ficam no mesmo lugar, o planejamento da semana chega inteiro ao mercado.
+
+NaptFit: organização alimentar do cardápio ao carrinho.
