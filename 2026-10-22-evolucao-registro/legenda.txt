@@ -1,0 +1,19 @@
+Refeição marcada no app, água anotada num papel, sono só na memória e o peso numa foto da balança. Quando cada parte da rotina fica num lugar diferente, fica difícil enxergar o dia inteiro.
+
+A Evolução é a área do NaptFit onde se registra o dia. E ela é gratuita.
+
+O que dá para registrar:
+
+1. As refeições do seu plano e as suas refeições personalizadas, em “Minhas refeições”.
+2. A água, em copos.
+3. O sono, com horas e qualidade.
+4. O treino.
+5. O peso.
+
+Um detalhe sobre o peso: quando você salva um novo valor, a faixa calórica educativa do plano é recalculada.
+
+No Android, peso e sono podem entrar automaticamente pelo Health Connect. O app apenas lê esses dados e não sobrescreve o que você digitou.
+
+O objetivo do registro não é um dia perfeito. É ver a rotina como ela realmente aconteceu e organizar os próximos dias a partir dela.
+
+NaptFit: a rotina alimentar organizada, um dia de cada vez.
