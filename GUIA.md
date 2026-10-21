@@ -60,6 +60,10 @@ e `historico.md`.
    como fonte de números.
 3. **Escrever** a arte e a legenda. Legenda com fonte no final ("Fonte: TACO / NEPA-UNICAMP")
    **Sem hashtags** (regra 8).
+   **Limite do Instagram: no máximo 2.200 caracteres na legenda** (contando espaços e quebras de
+   linha). Mire em até ~1.900 para ter folga e confira com
+   `python3 -c "print(len(open('<pasta>/legenda.txt').read().rstrip()))"` antes de agendar.
+   Acima disso, o post falha no Instagram (erro "Media container not created").
 4. **Revisar** com o checklist da seção 21 do briefing + a regra 2 deste guia (sem perguntas).
    Releia o português como revisor profissional.
 5. **Gerar as imagens:** crie a pasta `AAAA-MM-DD-tema-curto/` com `slides.html`
