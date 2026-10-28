@@ -1,0 +1,27 @@
+A balança pode ajudar na hidratação do treino: pesar-se antes e depois permite estimar quanto líquido foi embora no suor.
+
+Isso importa porque cada pessoa sua de um jeito. Em adultos, a taxa de suor durante o exercício pode variar de 0,5 a 4,0 litros por hora, conforme o tamanho do corpo, o ambiente, a intensidade e a aclimatação ao calor. Por isso, o posicionamento da NATA (National Athletic Trainers' Association) recomenda individualizar a hidratação.
+
+A conta descrita no documento é simples:
+
+Suor perdido (L) = peso antes (kg) − peso depois (kg) + líquido bebido durante o treino (L) − urina (L)
+
+Dividindo o resultado pela duração do treino em horas, você tem a sua taxa de suor em litros por hora.
+
+O que os números ajudam a interpretar:
+
+1. Menos de 2%. A referência é começar o treino hidratado e terminá-lo com perda de menos de 2% do peso corporal. Em estudos com atividade aeróbica prolongada, o desempenho caiu de forma consistente quando a perda chegou a 2% ou mais. Para quem pesa 70 kg, 2% correspondem a 1,4 kg.
+
+2. Ganhar peso também é sinal. Beber mais do que se perde no suor não traz vantagem e pode levar à hiponatremia, a queda do sódio no sangue. Por isso, a orientação é não ganhar peso durante o exercício.
+
+3. Depois do treino, repor. Quando o intervalo até a próxima sessão é curto (menos de 4 horas), pode ser preciso beber até 150% do déficit estimado.
+
+Sede, frequência para urinar e cor da urina também são indicadores úteis no dia a dia.
+
+São referências gerais. Quem tem alguma condição de saúde deve seguir a orientação do seu médico ou nutricionista.
+
+No NaptFit, a Evolução permite registrar o treino e o peso do dia.
+
+Salve para fazer a conta no próximo treino.
+
+Fontes: National Athletic Trainers' Association – Position Statement: Fluid Replacement for the Physically Active (Journal of Athletic Training, 2017); American College of Sports Medicine – Position Stand: Exercise and Fluid Replacement (Medicine & Science in Sports & Exercise, 2007).
