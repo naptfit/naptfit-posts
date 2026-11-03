@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<style>@font-face{font-family:'Mont';font-weight:500;src:url('../node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2')}@font-face{font-family:'Mont';font-weight:600;src:url('../node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2')}@font-face{font-family:'Mont';font-weight:700;src:url('../node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2')}@font-face{font-family:'Mont';font-weight:800;src:url('../node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2')}
+:root{--bg:#EEEDE6;--ink:#111111;--green:#20AC53;--mint:#D6EEDD;--muted:#5E5E58;--accent:#20AC53;--dk:#111111;}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#ccc;font-family:'Inter',sans-serif;color:var(--ink)}
+.s{width:1080px;height:1350px;background:var(--bg);position:relative;padding:110px 96px;display:flex;flex-direction:column;overflow:hidden}
+.s.dark{background:var(--dk);color:#F6F5EF}
+.brand{position:absolute;top:52px;left:96px;height:54px}
+.pg{position:absolute;top:60px;right:96px;font-size:24px;color:var(--muted);font-weight:500}
+.dark .pg{color:#9A9A92}
+.src{position:absolute;bottom:56px;left:96px;font-size:22px;color:var(--muted)}
+.dark .src{color:#9A9A92}
+.swipe{position:absolute;bottom:52px;right:96px;font-size:26px;font-weight:600;color:var(--accent)}
+h1{font-family:'Mont';font-weight:800;letter-spacing:-3px;line-height:1}
+h2{font-family:'Mont';font-weight:700;font-size:76px;letter-spacing:-2px;line-height:1.05}
+p.lead{font-size:40px;line-height:1.35;font-weight:500}
+.mid{margin:auto 0}
+.pill{display:flex;align-items:center;gap:28px;background:#fff;border-radius:32px;padding:34px 40px;margin-top:24px;font-family:'Mont';font-weight:700;font-size:48px;letter-spacing:-1px}
+.pill i{display:inline-block;width:22px;height:22px;border-radius:50%;background:var(--green);flex:none}
+.row{display:flex;justify-content:space-between;align-items:baseline;padding:34px 0;border-bottom:2px solid #DDD6C8;font-size:40px}
+.row span:first-child{font-weight:500;color:var(--muted)}
+.row b{font-family:'Mont';font-weight:800;font-size:60px;letter-spacing:-1px;white-space:nowrap}
+.tag{display:inline-block;background:var(--green);color:#fff;font-size:28px;font-weight:700;text-transform:uppercase;letter-spacing:2px;padding:12px 24px;border-radius:999px;margin-bottom:36px}
+.note{font-size:30px;color:var(--muted);margin-top:28px;line-height:1.35}
+.tip{background:#fff;border-radius:32px;padding:40px 44px;font-size:38px;line-height:1.35;margin-top:28px}
+.tip b{color:#178A42}
+.dark .tip{color:var(--ink)}
+.num{font-family:'Mont';font-weight:800;font-size:200px;line-height:.9;color:var(--green);letter-spacing:-6px}
+blockquote{font-family:'Mont';font-weight:600;font-size:54px;line-height:1.2;letter-spacing:-1px;border-left:10px solid var(--green);padding-left:40px;margin-top:56px}
+.chips{display:flex;flex-wrap:wrap;gap:16px;margin-top:28px}
+.chips span{background:#fff;border-radius:999px;padding:14px 28px;font-size:30px;font-weight:600}
+.chips span.on{background:var(--green);color:#fff}
+
+.bar{margin-top:30px}
+.bar .lb{display:flex;justify-content:space-between;align-items:baseline;font-size:34px;font-weight:600}
+.bar .lb small{font-size:26px;font-weight:500;color:var(--muted)}
+.bar .lb b{font-family:'Mont';font-weight:800;font-size:46px;letter-spacing:-1px;white-space:nowrap}
+.bar .tr{height:26px;background:#DDD6C8;border-radius:999px;margin-top:12px;overflow:hidden}
+.bar .fl{height:100%;background:var(--green);border-radius:999px;min-width:26px}
+.bar.hl .lb b{color:var(--green)}
+
+.big{font-family:'Mont';font-weight:800;font-size:150px;line-height:.95;color:var(--green);letter-spacing:-5px;white-space:nowrap}
+.unit{font-family:'Mont';font-weight:700;font-size:44px;letter-spacing:-1px;margin-top:18px}
+.or{font-family:'Mont';font-weight:700;font-size:40px;color:var(--muted);margin:26px 0 18px}
+.tl{display:flex;justify-content:space-between;margin-top:56px;position:relative}
+.tl:before{content:'';position:absolute;left:30px;right:30px;top:30px;height:6px;background:#DDD6C8;border-radius:9px}
+.tl div{position:relative;text-align:center;width:150px}
+.tl i{display:block;width:60px;height:60px;border-radius:50%;background:var(--green);margin:0 auto 18px}
+.tl span{font-family:'Mont';font-weight:700;font-size:34px}
+.verd{display:inline-block;font-family:'Mont';font-weight:800;font-size:34px;letter-spacing:2px;text-transform:uppercase;padding:14px 30px;border-radius:999px;margin-bottom:36px;align-self:flex-start}
+.verd.mito{background:#111111;color:#fff}
+.verd.dep{background:#fff;color:#111111;border:3px solid #111111}
+.claim{font-family:'Mont';font-weight:700;font-size:70px;letter-spacing:-2px;line-height:1.08}
+.claim:before{content:'“';color:var(--green)}
+.claim:after{content:'”';color:var(--green)}
+.m{display:flex;gap:32px;align-items:flex-start;background:#fff;border-radius:32px;padding:34px 40px;margin-top:22px}
+.m i{flex:none;width:64px;height:64px;border-radius:50%;background:var(--green);color:#fff;font-style:normal;font-family:'Mont';font-weight:800;font-size:36px;display:flex;align-items:center;justify-content:center}
+.m b{display:block;font-family:'Mont';font-weight:700;font-size:44px;letter-spacing:-1px;margin-bottom:8px}
+.m span{font-size:32px;line-height:1.35;color:var(--muted)}
+.tb{width:100%;border-collapse:collapse;margin-top:40px}
+.tb th{font-family:Mont;font-weight:700;font-size:30px;color:var(--muted);text-align:right;padding:0 0 18px}
+.tb th:first-child{text-align:left}
+.tb td{padding:30px 0;border-top:2px solid #DDD6C8;font-size:36px;font-weight:600;text-align:right}
+.tb td:first-child{text-align:left;color:var(--muted);font-weight:500}
+.tb td b{font-family:Mont;font-weight:800;font-size:50px;letter-spacing:-1px;white-space:nowrap}
+.tb td.hi b{color:var(--green)}
+</style>
+<style>
+.vs{display:flex;gap:24px;margin-top:44px}
+.vs>div{flex:1;background:#fff;border-radius:32px;padding:38px 34px}
+.vs small{display:block;font-size:26px;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--green);margin-bottom:16px}
+.vs b{display:block;font-family:'Mont';font-weight:800;font-size:46px;letter-spacing:-1px;line-height:1.08;margin-bottom:26px}
+.vs p{font-size:31px;line-height:1.32;color:var(--muted);margin-top:14px}
+.vs p strong{color:var(--ink);font-weight:700}
+.lb{margin-top:24px;background:#fff;border-radius:32px;padding:32px 38px}
+.lb b{display:block;font-family:'Mont';font-weight:800;font-size:42px;letter-spacing:-1px}
+.lb span{display:block;font-size:33px;color:var(--muted);margin-top:8px;line-height:1.3}
+.lb.warn b{text-transform:uppercase}
+</style>
+</head>
+<body>
+
+<div class="s dark" id="s1">
+  <img class="brand" src="../modelo/logo-word-light.png"><div class="pg">1/6</div>
+  <div class="mid">
+    <h1 style="font-size:112px">O feijão compensa o arroz.</h1>
+    <h1 style="font-size:112px;margin-top:28px;color:var(--accent)">E o arroz compensa o feijão.</h1>
+    <p class="lead" style="margin-top:56px;color:var(--mint);max-width:880px">A explicação está nos aminoácidos.</p>
+  </div>
+  <div class="swipe">arraste →</div>
+</div>
+
+<div class="s" id="s2">
+  <img class="brand" src="../modelo/logo-word-dark.png"><div class="pg">2/6</div>
+  <div class="mid"><span class="tag" style="align-self:flex-start">O ponto de partida</span>
+    <h2>Proteínas são formadas por aminoácidos.</h2>
+    <div class="big" style="margin-top:48px">9</div>
+    <div class="unit">deles são chamados de essenciais</div>
+    <p class="lead" style="margin-top:36px">O corpo não os produz. Eles precisam vir da alimentação.</p>
+  </div>
+  <div class="src">Fonte: MedlinePlus/NIH</div>
+</div>
+
+<div class="s" id="s3">
+  <img class="brand" src="../modelo/logo-word-dark.png"><div class="pg">3/6</div>
+  <div class="mid"><span class="tag" style="align-self:flex-start">A diferença</span>
+    <h2>Cada grupo costuma ter menos de um aminoácido.</h2>
+    <div class="vs">
+      <div><small>Cereais</small><b>Arroz</b><p>Costuma ter menos</p><p><strong>lisina.</strong></p></div>
+      <div><small>Leguminosas</small><b>Feijão</b><p>Costuma ter menos</p><p><strong>aminoácidos sulfurados, como a metionina.</strong></p></div>
+    </div>
+    <div class="tip">Por isso, os dois grupos <b>podem se complementar.</b></div>
+  </div>
+  <div class="src">Fonte: Hertzler et al., Nutrients (2020)</div>
+</div>
+
+<div class="s" id="s4">
+  <img class="brand" src="../modelo/logo-word-dark.png"><div class="pg">4/6</div>
+  <div class="mid"><span class="tag" style="align-self:flex-start">Detalhe importante</span>
+    <h2 style="font-size:92px">Não precisa ser no mesmo prato.</h2>
+    <p class="lead" style="margin-top:40px">O que importa é o equilíbrio ao longo do dia.</p>
+    <div class="tip" style="margin-top:44px">A revisão de 2020 fala em intervalos relativamente curtos entre as refeições, <b>em torno de 3 horas.</b></div>
+  </div>
+  <div class="src">Fontes: MedlinePlus/NIH; Hertzler et al. (2020)</div>
+</div>
+
+<div class="s" id="s5">
+  <img class="brand" src="../modelo/logo-word-dark.png"><div class="pg">5/6</div>
+  <div class="mid"><span class="tag" style="align-self:flex-start">No Guia Alimentar</span>
+    <h2>Uma mistura que vem da tradição.</h2>
+    <div class="lb" style="margin-top:36px"><b>Cereais + leguminosas</b><span>combinação presente no nosso arroz com feijão</span></div>
+    <div class="lb"><b>Quase 1/4</b><span>da alimentação dos brasileiros, em calorias, vem de arroz e feijão (POF 2008–2009)</span></div>
+    <div class="lb"><b>2 a 5 vezes</b><span>mais calorias por grama nos ultraprocessados que em 2 partes de arroz para 1 de feijão</span></div>
+  </div>
+  <div class="src">Fonte: Ministério da Saúde, Guia Alimentar (2014)</div>
+</div>
+
+<div class="s dark" id="s6">
+  <img class="brand" src="../modelo/logo-word-light.png"><div class="pg">6/6</div>
+  <div class="mid">
+    <h2 style="font-size:84px">Parece só o básico.<br><span style="color:var(--accent)">Mas a dupla tem lógica nutricional.</span></h2>
+    <p class="lead" style="margin-top:56px;color:var(--mint)">A variedade continua contando: lentilha e grão-de-bico também são leguminosas.</p>
+  </div>
+  <div class="src">Fontes: Ministério da Saúde; Hertzler et al. (2020)</div>
+</div>
+</body></html>
