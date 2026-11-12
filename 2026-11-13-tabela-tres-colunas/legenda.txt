@@ -1,0 +1,15 @@
+Na maioria dos alimentos embalados, a tabela nutricional traz três colunas de números. Elas parecem repetir a mesma informação, mas cada uma responde a uma pergunta diferente.
+
+O modelo atual segue a RDC nº 429/2020 e a IN nº 75/2020 da Anvisa, em vigor desde 9 de outubro de 2022. A tabela tem letras pretas em fundo branco e, para a maioria dos alimentos, declara valor energético, carboidratos, açúcares totais, açúcares adicionados, proteínas, gorduras totais, saturadas e trans, fibras alimentares e sódio.
+
+• 100 g ou 100 mL: quanto há em 100 g, nos produtos sólidos ou semissólidos, ou em 100 mL, nos líquidos. Como a base é a mesma para qualquer produto, é a coluna mais útil para comparar dois iogurtes, dois pães ou dois biscoitos na prateleira.
+
+• Porção: quanto há em uma porção. Na maioria dos alimentos, o tamanho da porção segue o Anexo V da IN nº 75/2020, uma lista organizada por categorias, e vem acompanhado da medida caseira correspondente. A tabela também informa o número de porções por embalagem. Se você consumir duas porções, os valores dessa coluna contam duas vezes.
+
+• %VD: quanto a porção representa em relação aos valores diários de referência. Ele é calculado sobre a porção, não sobre os 100 g, e a tabela avisa isso no rodapé: “Percentual de valores diários fornecidos pela porção”. Se a casa do %VD dos açúcares totais estiver vazia, não é erro: esse nutriente não tem valor diário de referência.
+
+Resumindo: para comparar produtos, use os 100 g. Para entender o que vai ao prato, olhe a porção e o %VD.
+
+Salve para consultar na próxima ida ao mercado.
+
+Fonte: Anvisa – RDC nº 429/2020, IN nº 75/2020 e Perguntas e Respostas sobre Rotulagem Nutricional (4ª ed., 2024).
