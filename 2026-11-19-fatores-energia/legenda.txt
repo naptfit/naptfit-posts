@@ -1,0 +1,22 @@
+O valor energético que aparece no rótulo não vem de uma medição direta. Ele é calculado.
+
+No Brasil, a Anvisa define fatores de conversão: quantas quilocalorias (kcal) cada grama de nutriente fornece. Pela RDC 429/2020, o valor energético da tabela nutricional deve ser obtido por cálculo indireto, usando esses fatores e os valores arredondados dos nutrientes declarados na própria tabela.
+
+Os fatores principais, segundo a IN 75/2020 (Anexo XXII):
+
+• Carboidratos (exceto polióis): 4 kcal/g
+• Proteínas: 4 kcal/g
+• Gorduras: 9 kcal/g
+• Álcool (etanol): 7 kcal/g
+
+Grama por grama, a gordura fornece mais que o dobro de energia de carboidratos e proteínas. Isso fala de densidade energética, não de alimento “bom” ou “ruim”. E o álcool também entra na conta, com mais energia por grama do que carboidratos e proteínas.
+
+Nem todo carboidrato vale 4. Polióis, como xilitol, sorbitol e eritritol, têm fatores próprios, todos abaixo de 4 kcal/g. As fibras alimentares solúveis também têm fator próprio, menor.
+
+Um exemplo ilustrativo de cálculo, para uma porção hipotética sem polióis, fibras ou álcool: 20 g de carboidratos (20 × 4 = 80 kcal), 5 g de proteínas (5 × 4 = 20 kcal) e 4 g de gorduras (4 × 9 = 36 kcal) somam 136 kcal.
+
+O número de calorias é o fim da conta. Olhar os nutrientes que levam até ele ajuda a comparar alimentos com mais critério.
+
+Vale enviar para quem acha que a caloria vem “escrita” no alimento.
+
+Fontes: Anvisa – RDC nº 429/2020 (art. 32) e IN nº 75/2020 (Anexo XXII).
